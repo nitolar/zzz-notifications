@@ -9,6 +9,7 @@ Brings Battery Charge and Shiyu Defense/Shop reset notifications to your windows
 Also automatically collects your daily check-in!
 
 [Check out Genshin Impact version](https://github.com/nitolar/genshin-notifications)
+
 [Check out Honkia: Star Rail version](https://github.com/nitolar/hsr-notifications)
 
 
